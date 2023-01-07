@@ -1,9 +1,10 @@
 ---
 title: "Long-term real dynamic investment planning"
-subtitle: "Earnings-by-price-double-benchmark"
+subtitle: "Comparison of myopic and nonmyopic investment strategies on S&P 500"
 journal: "Insurance: Mathematics and Economics"
-authors: "Russell Gerrard, Munir Hiabu, Jens Perch Nielsen, Peter Vodička"
-institution: "Bayes Business School (formerly Cass), City Univeristy London"
+authors: "Peter Vodička"
+co-authors: "Russell Gerrard, Munir Hiabu, Jens Perch Nielsen"
+institution: "Bayes Business School (formerly Cass), City Univeristy of London"
 date: "2019-September"
 ---
   
